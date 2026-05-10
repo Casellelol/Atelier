@@ -38,3 +38,38 @@
 - **Rising niche watch:** Infographic design (+500% demand); consider adding a standalone infographic gig or bundling 1 branded infographic into the brand kit package.
 
 ---
+
+## [2026-05-10 12:00] — Fiverr Intelligence
+
+**Trending services buyers want:**
+- Logo animation / motion logo (emerging fast — buyers want animated versions for social intros, YouTube openers, and Reels; often forced to hire a second seller because logo designers don't offer it)
+- Niche-specific brand identity kits (coaches, wellness brands, fintech startups, YouTube/TikTok creators — niche-titled gigs outperform generic "logo design" in search conversion)
+- Social media kits with Reels + TikTok covers + story highlights — demand accelerating with short-form video growth
+- Infographic design — search volume still up +500%, low competition relative to logo design (confirmation signal)
+- AI-assisted logo design with disclosed hybrid workflow (AI draft + human refinement) — buyers seeking speed without sacrificing authenticity
+- Short-form video content graphics (Reels thumbnails, TikTok post overlays, YouTube Shorts covers) — $30–$100/video, scalable volume work
+
+**Price intelligence:**
+- Budget logo gigs: $5–$50 (template recyclers, lowest retention/reviews)
+- Mid-tier custom logos: $50–$150 (Level 1/2 sellers — most competitive tier)
+- Logo + social media kit bundles: $140–$145 mid-tier (kimzamorano, hellographiste, patrick_liddell); $350–$400 premium tier (andelby, nadia_percan)
+- Minimalist logo specialists: $100–$500 (Designsowl: 50k+ orders; Minimalistlogo_: $120–$450)
+- Premium / Fiverr Pro: $590–$5,000 (Skydesigner: 19k 5-star reviews, starts $590)
+- Logo animation add-on: $50–$200; standalone gig opportunity currently underserved
+- Turnaround: buyers expect 24–48h for logos; 1–3 days for brand kits; 5–10 days for full identity strategy; rush delivery commands +20–40% premium
+
+**Gaps in the market:**
+- Hidden fee model dominates: source files (SVG/AI/EPS), revisions, and extra formats charged as separate add-ons by most sellers — all-inclusive transparent pricing is rare and converts better
+- Fiverr has no plagiarism policy — buyers regularly discover their "custom" logos appearing on competitor brands; uniqueness guarantee is almost unheard of at the $50–$150 tier
+- Non-strategic design: buyers report receiving logos with no discovery process (no questions about audience, competitors, brand tone) — sellers who use a brief/questionnaire stand out
+- Logo animation gap: most logo designers don't offer animated versions, forcing buyers to open a second order elsewhere — one-stop offering is a clear opportunity
+- Niche brand kits for solopreneurs at $150–$250 (all-inclusive) are nearly absent; market split between $5 template kits and $500+ premium with nothing credible in between
+
+**Actionable for Mastermind:**
+- **New gig to add:** "Minimalist Logo Animation" — deliver .mp4 + .gif animated logo, $75–$150 base; extremely low competition, high perceived value; test first as a paid add-on (+$75) on the brand kit gig before going standalone
+- **Niche gig variants to test:** Duplicate core brand kit gig with niche-specific titles — "Brand kit for wellness coaches", "Logo & brand identity for fintech startups", "Creator brand kit for YouTubers & TikTokers" — each targets lower-competition search intent vs generic "logo design"
+- **Trust differentiator:** Add "all source files included (SVG/AI/EPS/PDF) + original design guarantee — no templates, no stock art" in gig title or thumbnail banner; resolves the #1 buyer complaint and separates from 90% of competitors at first impression
+- **Upsell stack to build:** Base brand kit ($175) → + logo animation (+$75) → + rush 24h delivery (+$50) → + extra social template set (+$30) = $280–$330 average order value from a $175 base
+- **Rising niche to act on now:** Infographic design still signaling high demand vs low supply — add a "branded infographic design" gig at $50–$75 basic, or bundle 1 infographic into the premium brand kit tier as an included deliverable
+
+---

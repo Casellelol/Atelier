@@ -73,3 +73,41 @@
 - **Rising niche to act on now:** Infographic design still signaling high demand vs low supply — add a "branded infographic design" gig at $50–$75 basic, or bundle 1 infographic into the premium brand kit tier as an included deliverable
 
 ---
+
+## [2026-05-13 12:00] — Fiverr Intelligence
+
+**Trending services buyers want:**
+- Minimalist logo design (persistent #1 volume category; niche-titled gigs — "logo for wellness coach", "fintech startup logo" — outperforming generic "logo design" in conversion)
+- AI-assisted brand identity (generative AI market valued $10B+ now, projected $118B by 2032; buyers seeking AI-speed with human quality — hybrid workflow is the emerging standard)
+- Infographic design (3rd consecutive run signaling +500% search volume growth vs low seller supply — now a confirmed priority opportunity, not just a watch item)
+- Social media graphics packages — Instagram posts, Reels covers, TikTok overlays, YouTube Shorts banners (short-form video graphic demand accelerating with platform growth)
+- Complete brand kits bundling logo + social kit + brand guidelines (all-in-one still underserved at credible mid-tier price point)
+- Short-form video content graphics: Reels/TikTok overlays and YouTube Shorts covers — $30–$100/video, scalable volume opportunity
+
+**Price intelligence:**
+- Budget logos: $5–$50 (template recyclers; low retention, frequent disputes)
+- Mid-tier custom logos: $50–$150 (Level 1/2 sellers; most crowded tier)
+- Minimalist logo specialists: $120–$450 (Designsowl 50k+ orders; Minimalistlogo_ $120–$450; Ingeniousarts base $50 starter)
+- Logo + social media kit bundles: $145 mid-tier (kimzamorano); $350–$400 premium (andelby, nadia_percan)
+- Standalone social media kit: $350–$400 at premium tier
+- Social media marketing services (design + copy): $30–$162 broad range
+- Premium / Fiverr Pro logos: $590–$5,000 (Skydesigner 19k 5-star ratings)
+- Short-form video editing: $30–$100/video; 60-second explainer animations up to $600
+- Turnaround buyers expect: 24–48h for logos (initial concepts); 5–6 days for full brand kits; rush delivery commands +20–40% price premium
+
+**Gaps in the market:**
+- Inconsistent quality remains platform's #1 weakness (cited in G2, Sonary, WebsitePlanet reviews) — sellers who deliver consistently rated work at any tier have lower churn and higher repeat orders
+- Template recycling still the dominant complaint: buyers finding their "exclusive" logo on competitor brands; uniqueness guarantee nearly absent at $50–$150 tier
+- Hidden fees model persists: vector files (SVG/AI/EPS), extra revisions, commercial license all frequently charged as add-ons — all-inclusive transparent pricing converts significantly better
+- AI + human hybrid workflow is the emerging expectation but almost no sellers market it explicitly — buyers want speed without sacrificing authenticity; the gap is in the positioning, not the output
+- Infographic design still low-supply vs high-demand (3 consecutive scout runs confirming this); most logo/brand sellers don't offer it, leaving a clear adjacent gig slot open
+- Short-form video graphics (Reels/TikTok overlays) is growing fast with minimal dedicated gig saturation; most video graphic sellers are generalists, not social-media-first specialists
+
+**Actionable for Mastermind:**
+- **Immediate action — upgrade brand kit gig copy:** Add "AI-assisted workflow — faster delivery, same hand-crafted quality" language to gig description; appeal to speed-seeking buyers while maintaining authenticity premium; zero cost to implement, immediate positioning lift
+- **New gig to launch — Infographic Design:** 3 consecutive signals = confirmed go signal. Launch a "branded infographic design" gig at $50–$75 basic / $120 standard / $200 premium (with brand color matching); cross-sell to brand kit buyers as a natural next order
+- **New gig to test — Reels & TikTok Graphic Template Packs:** 5-pack social media templates sized for Reels/TikTok/Shorts at $35–$65; volume play with fast turnaround (2–3 days); repurpose existing brand assets to reduce production time
+- **Retain competitive edge on trust signals:** Maintain "all source files included (SVG/AI/EPS) + original design guarantee" as non-negotiable in every gig — this directly addresses the #1 platform complaint and differentiates from 90% of competitors at first impression
+- **Pricing ladder check:** Consider introducing a $99 "Logo Only + All Files Included" tier to capture mid-tier buyers bouncing between $50 template sellers and $175+ brand kit — low extra work, captures fence-sitters
+
+---

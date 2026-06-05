@@ -111,3 +111,43 @@
 - **Pricing ladder check:** Consider introducing a $99 "Logo Only + All Files Included" tier to capture mid-tier buyers bouncing between $50 template sellers and $175+ brand kit — low extra work, captures fence-sitters
 
 ---
+
+## [2026-06-05 06:00] — Fiverr Intelligence
+
+**Trending services buyers want:**
+- Minimalist logo design (still #1 volume category; niche-titled gigs continue to outperform generic titles — "logo for wellness coach", "fintech startup logo" — in search conversion)
+- Complete brand kits (logo + social media kit + brand guidelines bundled — all-in-one packages remain underserved at credible $150–$250 mid-tier)
+- Social media template packs (Instagram/TikTok post templates, Reels covers, story highlights — demand accelerating with short-form platform growth)
+- Infographic design (4th consecutive scout run confirming +500% search volume growth vs low seller supply — now highest-priority untapped gig slot)
+- AI-generated / AI-assisted design (Canva-based design and Midjourney-assisted art both in demand from small businesses; buyers want AI-speed with human polish)
+- Canva template design (small businesses seeking ready-to-edit branded templates; high repeatability, low delivery cost)
+- Short-form video graphics (Reels/TikTok overlays, YouTube Shorts banners — low saturation, growing fast)
+
+**Price intelligence:**
+- Budget logo gigs: $5–$50 (template recyclers; frequent disputes, poor retention)
+- Mid-tier custom logos: $50–$150 (Level 1/2 sellers; most crowded, most competitive tier)
+- Minimalist logo specialists: $120–$450 (Designsowl 50k+ orders, 5-star; Minimalistlogo_ $120–$450; top rated avg 4.9)
+- Premium / Fiverr Pro: $590–$5,000 (Skydesigner 19k 5-star reviews, starts $590)
+- Social media kit standalone: $10 budget → $50–$150 mid → $350–$400 premium (andelby, nadia_percan)
+- Logo + social kit bundle mid-tier: $145–$150 (kimzamorano, hellographiste); premium: $350–$400
+- Canva 5-pack template set: ~$35 average; branded comprehensive sets $150–$400
+- Short-form video editing: $30–$100/video; 60s explainer animations up to $600
+- Turnaround: buyers expect 24–48h for logo concepts; 3–5 days for full brand kits; rush delivery commands +20–40% premium
+
+**Gaps in the market:**
+- Template recycling remains #1 buyer complaint platform-wide — buyers finding their "custom" logos on competitor brands; uniqueness guarantee nearly absent below $150 tier
+- Hidden fees still dominant: SVG/AI/EPS source files, extra revisions, commercial license all charged as expensive add-ons; all-inclusive transparent pricing is rare and a proven conversion lift
+- No credible all-inclusive brand kit at $150–$250 — market split between low-trust $50 options and $500+ premium; wide void with no credible mid-tier occupant
+- Non-strategic design process: buyers report receiving logos with zero discovery (no questions on audience, competitors, brand tone); sellers using a brief/questionnaire workflow stand out strongly
+- Infographic design: 4 consecutive runs confirming high demand / low supply — no major brand/logo seller offers branded infographics as part of their package stack
+- Canva-editable deliverables: buyers increasingly ask for Canva-native files so they can self-edit post-delivery; few sellers offer this as a gig feature
+
+**Actionable for Mastermind:**
+- **Infographic gig — launch now:** 4 consecutive scout signals = highest-confidence opportunity. Launch "Branded Infographic Design" at $50 basic / $120 standard / $200 premium (brand color matching + source file included). Cross-sell to brand kit buyers as natural next order.
+- **Canva template gig — new test:** Small business demand for Canva-editable branded content is surging. Test "5-pack Canva Social Media Templates" at $35–$65, 2-day delivery. Upsell to full 20-pack monthly subscription for recurring revenue.
+- **Add Canva-native delivery option:** Offer existing brand kit gig in Canva format as a paid add-on (+$25–$40) — resolves an emerging buyer request with minimal extra production cost.
+- **Retain trust edge on all gigs:** "All source files included (SVG/AI/EPS) + original design guarantee — no templates, no stock art" must stay front-and-center on every gig thumbnail and first line of description.
+- **Niche title test (refresh):** Re-test niche gig variants — "brand kit for wellness coaches", "logo & identity for fintech startups", "creator brand kit for YouTubers & TikTokers" — niche-specific gigs consistently outperform generic in Fiverr search at lower ad spend.
+- **Upsell stack target AOV $360+:** Base brand kit ($175) → + infographic (+$60) → + logo animation (+$75) → + rush delivery (+$50) = $360 average order value from a $175 entry point.
+
+---
